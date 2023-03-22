@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+
+.page-mw{
+    width: 80%;
+    margin: auto;
+}
+
+
+.bg-black{
+    background-color: black;
+}
+
+
+.bg-green{
+    background-color: green;
+}
+
+
+.bg-red{
+    background-color: red;
+}
+
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+
+.bg-gray{
+    background-color: gray;
+}
+
+
+.shop-container{
+    display: flex;
+    width: 30%;
+
+}
+
+
+.item-container{
+    display: flex;
+    flex-direction: column;
+}
