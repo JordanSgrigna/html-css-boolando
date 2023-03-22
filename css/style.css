@@ -6,7 +6,7 @@
 
 
 .page-mw{
-    width: 80%;
+    width: 40%;
     margin: auto;
 }
 
@@ -71,6 +71,7 @@
 
 .item-container{
     width: 30%;
+    min-width: 200px;
 }
 
 img {
@@ -80,4 +81,9 @@ img {
 
 .flex-spacebetween{
     justify-content: space-between;
+}
+
+
+h4, p{
+    text-size-adjust: auto;
 }
