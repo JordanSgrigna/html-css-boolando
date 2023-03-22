@@ -12,7 +12,7 @@
 
 
 .bg-black{
-    background-color: black;
+    background-color: rgb(29, 27, 27);
 }
 
 
@@ -140,3 +140,14 @@ img {
     height: 54px;
 }
 
+
+.footer-container{
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.footer-text{
+    font-size: 10px
+}
