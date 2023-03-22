@@ -121,7 +121,7 @@ img {
     gap: 10px;
 }
 
-.nav-items-align{
+.items-align{
     align-items: center;
 }
 
@@ -151,3 +151,11 @@ img {
 .footer-text{
     font-size: 10px
 }
+
+.footer-flex{
+    display:flex;
+    flex-wrap: wrap;
+
+}
+
+
